@@ -1,0 +1,14 @@
+*.ipynb
+*.mp4
+*.json
+*.parquet
+**/__pycache__/*
+**/.ipynb_checkpoints/*
+commands.md
+output/
+logs/
+plugins/
+config/
+TODO.md
+**API_keys.py
+.env
